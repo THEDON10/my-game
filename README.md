@@ -1,2 +1,2 @@
 # my-game
-< just an attempt at a nibble game!
+## just an attempt at a nibble game!
